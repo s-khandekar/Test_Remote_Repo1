@@ -1,0 +1,6 @@
+class="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled 
+vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled 
+vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled 
+vector-feature-custom-font-size-clientpref-1 skin-theme-clientpref-day wp25eastereggs-enable-clientpref-1 
+vector-toc-available skin-theme-clientpref-thumb-standard vector-animations-ready ve-available 
+vector-feature-toc-pinned-clientpref-0 vector-feature-appearance-pinned-clientpref-0"
